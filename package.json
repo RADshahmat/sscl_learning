@@ -1,0 +1,21 @@
+{
+  "name": "phase0",
+  "version": "1.0.0",
+  "description": "\"phase0\" \r ### P0.1 Command line + Git\r - **Goal:** navigate a Unix shell, use Git day-to-day, understand branches, merges, rebases, PRs.",
+  "main": "phase0_3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RADshahmat/sscl_learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RADshahmat/sscl_learning/issues"
+  },
+  "homepage": "https://github.com/RADshahmat/sscl_learning#readme"
+}
